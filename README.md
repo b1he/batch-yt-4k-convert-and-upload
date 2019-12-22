@@ -17,5 +17,5 @@ ___
 2. Create a bin folder where the footage is.
 3. Download and extract ffmpeg.exe into the bin folder
 4. Download [porjo's youtubeuploader](https://github.com/porjo/youtubeuploader) into the bin folder.
-5. Follow [youtubeuploader's setup](https://github.com/porjo/youtubeuploader)
+5. Follow [youtubeuploader's setup](https://github.com/porjo/youtubeuploader#setup)
 6. Start!
