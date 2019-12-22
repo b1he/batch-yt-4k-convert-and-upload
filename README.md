@@ -6,6 +6,7 @@ To dump lots of awesome video game footage to YouTube while upscaling it to 4K t
 ___
 ### Hundreds of hours of unlisted 4K footage! Will YouTube get mad?
 🤷
+___
 ### Features
 * Nearest neighbour scaling. (seems to look the best from a 1080p upscale)
 * NVIDIA decoding and encoding for faster transcoding (means this script requires an nvidia gpu)
