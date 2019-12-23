@@ -19,3 +19,6 @@ ___
 4. Download [porjo's youtubeuploader](https://github.com/porjo/youtubeuploader) into the bin folder.
 5. Follow [youtubeuploader's setup](https://github.com/porjo/youtubeuploader#setup)
 6. Start!
+___
+### Does it work?
+Not really, looks like YouTube API's limit is only 6 uploads per day. Not enough! :(
